@@ -5,3 +5,6 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+=========================================================
+WeiJie edits:
+Added a side bar inside 08/03/2023
